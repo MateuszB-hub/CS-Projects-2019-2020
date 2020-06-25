@@ -16,8 +16,7 @@ int main()
 	double finalVelocity=0.0;
 	
 	cout << "Mateusz Bieda" << endl;
-	cout << "CS 135 Section 1004 Assignment 2" << endl;
-	cout << "	" << endl;
+	
 
 	cout << "Welcome to the Bedrock Volacano Drop" << endl;
 	cout << "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" << endl;
