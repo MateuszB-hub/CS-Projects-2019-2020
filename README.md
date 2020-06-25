@@ -1,2 +1,3 @@
 # CS-Projects-2019-2020
-Programs I have made on my time and in school to practice and showcase my knowledge.
+Programs I have made on my time to practice and showcase my knowledge.
+Overtime I will be adding more projects
